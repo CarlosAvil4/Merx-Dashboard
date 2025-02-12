@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-The Merx dashboard is an analytical solution designed for a large-scale supermarket, providing a comprehensive view of key sales and profitability metrics across the year’s four-month periods. With data available from 2013 to 2020, the dashboard allows filtering by year, category, subcategory, and product tags. The main categories include Food & Beverages, Household Items, and Health & Beauty, with subcategories such as beverages, deli, personal care, wines & liquors, and more.
+The Merx dashboard is an analytical solution designed for a large-scale supermarket, providing a comprehensive view of key sales and profitability metrics across the year’s four-month term. With data available from 2013 to 2020, the dashboard allows filtering by year, category, subcategory, and product tags. The main categories include Food & Beverages, Household Items, and Health & Beauty, with subcategories such as beverages, deli, personal care, wines & liquors, and more.
 
 On the first page, users can analyze a sales percentage chart by category, a comparison of physical vs. online purchases, and a detailed table showing total sales, total profit, and percentage margin by subcategory and product tag. The second page presents a metric comparison, featuring a bar chart for total sales with an overlaid line graph for percentage margin, as well as a comparative analysis of online vs. physical purchases and a historical monthly and yearly metrics table. Finally, the last page includes a dynamic table where data can be viewed at the product, brand, or tag level, with a search bar enabling quick product lookup.
 
